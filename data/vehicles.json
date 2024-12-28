@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Acura ZDX",
+        "type": "Car",
+        "price": "10000",
+        "image": "https:\/\/site-assets.evgo.com\/f\/78437\/1920x1080\/b3deae0f82\/subaru-solterra-ev-final.jpg"
+    },
+    {
+        "name": "Audi e-tron",
+        "type": "Car",
+        "price": "20000",
+        "image": "https:\/\/img2.storyblok.com\/546x0\/filters:format(webp):quality(72)\/f\/78437\/1920x1080\/7f76c89564\/audi-e-tron-final-b.jpg"
+    },
+    {
+        "name": "BMW",
+        "type": "Car",
+        "price": "50000",
+        "image": "https:\/\/content.carlelo.com\/uploads\/model\/bmw-ix1-1.webp"
+    }
+]
